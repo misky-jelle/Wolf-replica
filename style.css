@@ -1,0 +1,351 @@
+body{
+padding: 0;
+margin: 0;
+text-decoration: none;
+
+}
+.background img{
+    width: 70%;
+    height: 90vh;
+        margin-left: 30%;
+    }
+.first{
+   margin-top: -5%;
+    background-color: rgb(86,111,107);
+height: 90vh;
+
+}    
+.nav{
+    font-size: 20px;
+    margin-left: 70%;
+    margin-top: 5%;
+ }
+ .nav a{
+    color: white;
+    padding: 2%;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    
+    
+ }
+ .topic{
+    color: white;
+    margin-left: 9%;
+    margin-top: 5%;
+}
+.topic h1{
+font-size: 30px;
+margin-top: -1%;
+}
+.topic p{
+    margin-top: -0.5%;
+}
+.logo{
+    margin-top: -53%;
+    margin-left: 12%;
+}
+
+.state{
+    margin-top: -30%;
+    margin-left: 2%;
+    color: white;
+}
+.state h1{
+font-size: 30px;
+}
+.state p{
+    font-size: 15px;
+}
+.button button{
+    background-color: rgb(86,111,107);
+    border: 3px solid white;
+    border-radius: 60px;
+    font-size: 15px;
+    color: white;
+    height: 7vh;
+    width: 12%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+.button1 button{
+    background-color: white;
+    font-size: 15px;
+    color: black;
+    height: 7vh;
+    width: 12%;
+    margin-left: 20%;
+    border: 3px solid white;
+
+border-radius: 60px;
+border: 5px solid white;
+
+}
+.button1{
+    margin-top: -3%;
+}
+.image img{
+    width: 80px;
+}
+.ing h1{
+    font-size: 60px;
+    color: gray;
+    margin-top: 30%;
+    margin-left: 20%;
+}
+.Misky img{
+margin-left: 22%;
+width: 60%;
+margin-top: -5%;
+}
+.statement {
+    margin-top: -50%;
+    margin-left: 7%;
+}
+.statement h1{
+    color:black;
+    font-size: 30px;
+}
+.statement p{
+    color:gray;
+    font-size: 15px;
+    
+}
+.statement1 {
+    margin-left: 7%;
+    margin-top: 5%;
+}
+.statement1 h1{
+    color: black;
+    font-size: 30px;
+}
+.statement1 p{
+    color:gray;
+    font-size: 15px;
+    
+}
+.statement2 {
+    margin-left: 70%;
+    margin-top: -27%;
+
+}
+.statement2 h1{
+    color: black;
+    font-size: 30px;
+}
+.statement2 p{
+    color:gray;
+    font-size: 15px;
+    
+}
+.statement3 {
+    margin-left: 70%;
+    margin-top: 5%;
+}
+.statement3 h1{
+    color: black;
+    font-size: 30px;
+}
+.statement3 p{
+    color:gray;
+    font-size:15px;
+    
+}
+.statement4{
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.statement4 h1{
+font-size: 30px;
+}
+.statement4 p{
+    color: gray;
+    font-size: 20px;
+}
+.third{
+    background-color:rgb(138,190,183);
+    height: 230px;
+    margin-top: 10%;
+}
+
+.third1 h1{
+    color: white;
+    font-size: 25px;
+    margin-left: 55%;
+    
+
+}
+.third1 p{
+    color: white;
+    font-size: 15px;
+    margin-left: 55%;
+}
+.third1 button{
+    border: 1px white solid;
+    height: 7vh;
+    width: 12%;
+    font-size: 15px;
+    margin-left: 60%;
+    border-radius: 30px;
+    margin-top: 3%;
+}
+.pic{
+    margin-top: -25%;
+    margin-left: -5%;
+    
+
+}
+
+.pic2{
+    margin-top: -40%;
+    margin-left: 20%;
+ 
+}
+.wolff{
+    display: flex;
+}
+.products h1{
+    color: gray;
+    margin-left: 40%;
+    font-size: 40px;
+    margin-top: 5%;
+}
+.wolf{
+    background-color: rgb(241,243,242);
+margin-left: 5%;
+height: 70vh;
+}
+.wolf img{
+    height: 70vh;
+}
+.wolf1 img{
+    height: 70vh;
+}
+.wolf2 img{
+    height: 70vh;
+    width: 90%;
+
+}
+.wolf h1{
+    color: gray;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.wolf1{
+    background-color: rgb(241,243,242);
+    margin-left: 4%;
+    height: 70vh;
+
+}
+.wolf1 h1{
+    color: gray;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.wolf2{
+    background-color: rgb(241,243,242);
+    margin-left:4%;
+    height: 70vh;
+    width: 30%;
+
+}
+.wolf2 h1{
+    color: gray;
+    font-size: 20px;
+    margin-left: 40%;
+}
+.pep{
+    margin-top: 10%;
+}
+.pep img{
+    width:100px;
+    height: 100px;
+    margin-left: 15%;
+    border-radius: 70px;
+    margin-top: 5%;
+}
+.pep h1{
+    margin-left: 10%;
+  }
+  .pep p{
+    margin-left: 10%;
+  }
+  .pep h3{
+    margin-left: 10%;
+    color: gray;
+    font-size: 15px;
+  }
+  
+.pep1 h3{
+    margin-left: 60%;
+    color: gray;
+    font-size: 15px;
+  }
+  .pep1 p{
+    margin-left: 60%;
+
+  }
+  .pep1 h1{
+    margin-left: 60%;
+    margin-top: -15%;
+
+
+  }
+  .last{
+    background-color: rgb(231,231,231);
+    margin-top: 10%;
+    height: 35vh;
+}
+.log{
+    margin-left: -4%;
+}
+.log img{
+    width: 80px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.log h1{
+margin-left: 9%;
+font-size: 20px;
+margin-top: -0.2%;
+}
+.log p{
+    margin-left: 11%;
+    margin-top: -1%;
+    font-size: 15px;
+    color: gray;
+}
+.log1{
+    margin-left: 33%;
+    margin-top: -10%;
+}
+.log1 h1{
+    font-size: 20px;
+}
+.log1 p{
+    font-size: 15px;
+    color: gray;
+}
+.log2{
+    margin-left: 55%;
+    margin-top: -8.5%;
+}
+.log2 h1{
+    font-size: 20px;
+}
+.log2 p{
+    font-size: 15px;
+    color: gray;
+}
+.social{
+    margin-left: 80%;
+    margin-top: -7%;
+}
+.social h1{
+    font-size: 20px;
+}
+.social p{
+    font-size: 15px;
+    color: gray;
+} 
+
